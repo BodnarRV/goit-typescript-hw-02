@@ -1,6 +1,6 @@
 import React from "react";
 import ImageCard from "../ImageCard/ImageCard";
-import { IImage } from "./api";
+import { IImage } from "../../api";
 import "./ImageGallery.css";
 
 export interface IImageGalleryProps {
